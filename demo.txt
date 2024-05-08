@@ -1,1 +1,3 @@
 Name: Digvijay Bhapkar
+Class : TE
+CGPA: 8.19
